@@ -6,4 +6,5 @@ mountWar(document.getElementById('app')!, {
   title: 'Timeline of the First World War',
   subtitle: '1914–1918 · events drawn from Wikidata',
   range: [1914, 1919],
+  extent: [1910, 1920],
 });
